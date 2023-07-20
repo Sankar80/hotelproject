@@ -131,7 +131,7 @@ footer{
 .socialicons a i{
     font-size: 2em;
     color: black;
-    opacity: 0.9;
+    opacity: 1;
 }
 
 .socialicons a:hover{
